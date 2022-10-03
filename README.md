@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jayvardhan2111
-- <img src="https://giphy.com/gifs/animation-computer-programmers-nGMnDqebzDcfm">
+- <img src="https://giphy.com/gifs/animation-computer-programmers-nGMnDqebzDcfm" alt="Girl in a jacket" width="500" height="600">
 - 👀 I’m interested in Devops, MERN stack, Cloud, Microservices
 - 🌱 I’m currently learning Devops
 - 💞️ I’m looking to collaborate on Devops related things

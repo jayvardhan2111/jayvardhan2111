@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jayvardhan2111
-<img src="https://play.google.com/store/apps/details?id=com.animeboywallpaper.masmasstudio&hl=en_US&gl=US" />
+-<img src="https://play-lh.googleusercontent.com/7Ac5TgaL15Ra4bvFVHJKCdJp4qvnL4djZj5bKc6RN-MZjzrvkeHbJytek0NPTSdZcp8=w240-h480-rw" alt="Girl in a jacket" width="500" height="600">
 - 👀 I’m interested in Devops, MERN stack, Cloud, Microservices
 - 🌱 I’m currently learning Devops
 - 💞️ I’m looking to collaborate on Devops related things

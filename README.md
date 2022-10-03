@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jayvardhan2111 <img src="https://media.tenor.com/CzdMW7wnLn8AAAAC/coding.gif" alt="Girl in a jacket" width="200" height="200" align="right">
+- 👋 Hi, I’m @jayvardhan2111 <img src="https://media.tenor.com/ITc1hNBSH_wAAAAM/coding-typing.gif" alt="Girl in a jacket" width="200" height="200" align="right">
 - 👀 I’m interested in Devops, MERN stack, Cloud, Microservices
 - 🌱 I’m currently learning Devops
 - 💞️ I’m looking to collaborate on Devops related things

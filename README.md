@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayvardhan2111" alt="jayvardhan2111" /></a> </p>
 
-- 🔭 I’m currently working on **Expense Tracker**
+
 
 - 🌱 I’m currently learning **Devops and Micro-services**
 

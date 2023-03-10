@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋 , I'm <b>Jayvardhan Prajapat</b></h1>
-<h3 align="center"><i>I’m interested in Devops, MERN stack, Cloud, Microservice<i>s</h2>
+<h3 align="center"><i>I’m interested in Devops, GitOps, Cloud, Microservice, Node.js and GoLang<i>s</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayvardhan2111&label=Profile%20views&color=0e75b6&style=flat" alt="jayvardhan2111" /> </p>
 

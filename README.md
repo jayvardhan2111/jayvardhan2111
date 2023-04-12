@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **Devops and Micro-services**
+- 🌱 I’m currently learning **Devops, Cloud and Micro-services**
 
 - 👯 I’m looking to collaborate on **Devops related stuff**
 
